@@ -1,0 +1,20 @@
+* Para inicializar el repositorio:
+git init
+
+* Para añadir README:
+git add README.md
+
+* Para hacer un commit:
+git commit -m "first commit"
+
+* Para crear la rama main:
+git branch -M main
+
+* Para subir mi repositorio remoto:
+git remote add origin https://github.com/NombreUsuario/NombreRepositorio.git
+
+* Para subir los nuevos cambios a la red:
+git push -u origin main
+
+* Para añadir un cambio:
+git add ArchivoCambio
